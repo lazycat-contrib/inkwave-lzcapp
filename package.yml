@@ -1,0 +1,18 @@
+package: community.lazycat.app.inkwave
+version: 0.1.0
+name: INKWAVE 墨水大作战
+description: Splatoon 风格的 4v4 涂地对战射击游戏，浏览器直接玩，支持触屏
+min_os_version: 1.5.0
+homepage: https://github.com/amiaoapp/inkwave
+author: amiaoapp
+license: MIT
+locales:
+  zh:
+    name: INKWAVE 墨水大作战
+    description: Splatoon 风格的 4v4 涂地对战射击游戏，浏览器直接玩，支持触屏
+  zh_CN:
+    name: INKWAVE 墨水大作战
+    description: Splatoon 风格的 4v4 涂地对战射击游戏，浏览器直接玩，支持触屏
+  en:
+    name: INKWAVE Turf Riot
+    description: A Splatoon-style 4v4 turf-war ink shooter that runs in your browser
