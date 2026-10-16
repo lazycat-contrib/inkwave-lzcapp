@@ -1,5 +1,5 @@
 package: community.lazycat.app.inkwave
-version: 0.1.1
+version: 0.1.2
 name: INKWAVE 墨水大作战
 description: Splatoon 风格的 4v4 涂地对战射击游戏，浏览器直接玩，支持触屏
 min_os_version: 1.5.0
