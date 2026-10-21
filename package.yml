@@ -1,5 +1,5 @@
 package: community.lazycat.app.inkwave
-version: 0.1.7
+version: 0.1.8
 name: INKWAVE
 description: A Splatoon-style 4v4 turf-war ink shooter that runs in your browser
 min_os_version: 1.5.0
